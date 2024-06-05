@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "87uv2z2l/f8LyaXVVpKCrpqg5rJUvWR8qXZr+6ks5Mw=",
+  "Source": "dotnetdockertesting",
+  "BasePath": "_content/dotnetdockertesting",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

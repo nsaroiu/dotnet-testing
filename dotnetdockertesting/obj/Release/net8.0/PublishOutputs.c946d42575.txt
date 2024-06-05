@@ -1,0 +1,12 @@
+/Users/nsaroiu/projects/marius/dotnet/dotnetdockertesting/bin/Release/net8.0/publish/dotnetdockertesting
+/Users/nsaroiu/projects/marius/dotnet/dotnetdockertesting/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/nsaroiu/projects/marius/dotnet/dotnetdockertesting/bin/Release/net8.0/publish/appsettings.json
+/Users/nsaroiu/projects/marius/dotnet/dotnetdockertesting/bin/Release/net8.0/publish/dotnetdockertesting.dll
+/Users/nsaroiu/projects/marius/dotnet/dotnetdockertesting/bin/Release/net8.0/publish/dotnetdockertesting.deps.json
+/Users/nsaroiu/projects/marius/dotnet/dotnetdockertesting/bin/Release/net8.0/publish/dotnetdockertesting.runtimeconfig.json
+/Users/nsaroiu/projects/marius/dotnet/dotnetdockertesting/bin/Release/net8.0/publish/dotnetdockertesting.pdb
+/Users/nsaroiu/projects/marius/dotnet/dotnetdockertesting/bin/Release/net8.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/nsaroiu/projects/marius/dotnet/dotnetdockertesting/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/Users/nsaroiu/projects/marius/dotnet/dotnetdockertesting/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/nsaroiu/projects/marius/dotnet/dotnetdockertesting/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/nsaroiu/projects/marius/dotnet/dotnetdockertesting/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
